@@ -1,0 +1,64 @@
+.code-for-vermont-header {
+    background-color: #00AD69;
+    background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(rgba(0, 0, 0, 0)), to(rgba(0, 0, 0, 0.3)));
+    background-image: -webkit-linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.3));
+    background-image: -moz-linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.3));
+    background-image: -ms-linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.3));
+    background-image: -o-linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.3));
+}
+.code-for-vermont-header h1,
+.code-for-vermont-header h2,
+.code-for-vermont-header h3,
+.code-for-vermont-header h4,
+.code-for-vermont-header h5,
+.code-for-vermont-header h6,
+.code-for-vermont-header .h1,
+.code-for-vermont-header .h2,
+.code-for-vermont-header .h3,
+.code-for-vermont-header .h4,
+.code-for-vermont-header .h5,
+.code-for-vermont-header .h6,
+.code-for-vermont-header p,
+.code-for-vermont-header a {
+    color: white;
+}
+.code-for-vermont-header small {
+    color: white;
+    color: rgba(255, 255, 255, 0.9);
+}
+.page-header.code-for-vermont-header {
+    margin-top: 0;
+    padding-top: 15px;
+}
+.code-for-vermont-header.code-for-vermont-header-ribbon {
+    margin-bottom: 20px;
+}
+.code-for-vermont-header.code-for-vermont-header-ribbon h1,
+.code-for-vermont-header.code-for-vermont-header-ribbon h2,
+.code-for-vermont-header.code-for-vermont-header-ribbon h3,
+.code-for-vermont-header.code-for-vermont-header-ribbon h4,
+.code-for-vermont-header.code-for-vermont-header-ribbon h5,
+.code-for-vermont-header.code-for-vermont-header-ribbon h6,
+.code-for-vermont-header.code-for-vermont-header-ribbon .h1,
+.code-for-vermont-header.code-for-vermont-header-ribbon .h2,
+.code-for-vermont-header.code-for-vermont-header-ribbon .h3,
+.code-for-vermont-header.code-for-vermont-header-ribbon .h4,
+.code-for-vermont-header.code-for-vermont-header-ribbon .h5,
+.code-for-vermont-header.code-for-vermont-header-ribbon .h6 {
+    margin-top: 0;
+}
+header h1.visible-xs small,
+header h1.visible-sm small {
+    display: block;
+}
+body > footer {
+    margin-top: 50px;
+    padding-top: 10px;
+    padding-bottom: 25px;
+    background-color: #00AD69;
+    color: white;
+}
+body > footer a {
+    color: white;
+    color: rgba(255, 255, 255, 0.9);
+}
