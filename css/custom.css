@@ -51,16 +51,21 @@ header h1.visible-xs small,
 header h1.visible-sm small {
     display: block;
 }
-body > footer {
+body > .container {
     margin-top: 50px;
+}
+.sidebar {
+    margin-top: 50px;
+}
+body > footer {
+    margin-top: 100px;
     padding-top: 10px;
     padding-bottom: 25px;
-    background-color: #00AD69;
-    color: white;
+    border-top: 1px solid #CCC;
+    color: #999;
 }
 body > footer a {
-    color: white;
-    color: rgba(255, 255, 255, 0.9);
+    color: #999;
 }
 .sponsors img {
     max-width: 60%;
